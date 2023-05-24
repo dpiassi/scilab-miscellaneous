@@ -1,1 +1,1 @@
-# scilab-miscellaneous
+# Scilab Miscellaneous
